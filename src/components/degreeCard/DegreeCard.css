@@ -22,7 +22,7 @@
 .card-img {
   width: 200px;
   height: auto;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   padding: 10px;
   border: 1px solid #d9dbdf;
   /* background-color: #6c63ff; */
@@ -47,6 +47,7 @@
 .body-header-duration {
   width: 20%;
 }
+
 .duration {
   font-family: "Google Sans Regular";
   font-size: 16px;
